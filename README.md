@@ -79,6 +79,6 @@ Ce projet utilise Vite pour le développement.
 
 ## Auteurs
 
-*   **[Votre Nom]** - *Développement initial* - [khadimflash](https://github.com/khadimflash)
+*   **[khadim GNING]** - *Développement initial* - [khadimflash](https://github.com/khadimflash)
 
 
