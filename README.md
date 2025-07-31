@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/javascript.svg" alt="JavaScript Logo" width="200"/>
+</p>
 
 # NoteIt
 
@@ -82,5 +85,3 @@ Ce projet utilise Vite pour le développement.
 *   **[khadim GNING]** - *Développement initial* - [khadimflash](https://github.com/khadimflash)
 ## Deploy on Render:
 * https://simplevanilla-noteappjs.onrender.com
-
-
