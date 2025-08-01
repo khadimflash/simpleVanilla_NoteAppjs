@@ -80,7 +80,7 @@ Ce projet utilise Vite pour le développement.
 ## Auteurs
 
 *   **[khadim GNING]** - *Développement initial* - [khadimflash](https://github.com/khadimflash)
-## Deploy on sevalla:
+## Deploy on Render:
 * https://simplevanilla-noteappjs.onrender.com
 
 
